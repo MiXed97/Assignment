@@ -17,7 +17,9 @@ public class Somethign {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("You suck");
-        System.out.println("Perhaps");
+        
+        for(int i =0;i<5;i++)
+            System.out.println("Perhaps");
     }
     
 }
