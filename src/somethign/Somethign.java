@@ -21,7 +21,7 @@ public class Somethign {
         for(int i =0;i<5;i++)
             System.out.println("Perhaps");
         
-       System.out.println("something1");
+       System.out.println("somethin");
     }
     
 }
